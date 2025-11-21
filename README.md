@@ -4,7 +4,7 @@ Link: https://www.dailyhabits.dev/
 
 Daily Habit Tracker is a minimalistic application designed to help users build and maintain daily habits effectively.
 
-##Features:
+## Features:
 
 1.Streak Tracking: Monitor and strive to surpass your longest habit streaks.
 
@@ -16,7 +16,7 @@ Daily Habit Tracker is a minimalistic application designed to help users build a
 
 5.Pause Functionality: Pause the app when taking a break or during periods of inactivity.
 
-##Technologies Used:
+## Technologies Used:
 
 1.Frontend: React
 
@@ -24,7 +24,7 @@ Daily Habit Tracker is a minimalistic application designed to help users build a
 
 3.Deployment: Vercel
 
-##Getting Started:
+## Getting Started:
 
 To set up the project locally:
 
