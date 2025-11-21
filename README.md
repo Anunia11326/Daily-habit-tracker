@@ -29,3 +29,29 @@ Getting Started:
 To set up the project locally:
 
 1.Clone the repository:
+
+git clone https://github.com/Anunia11326/Daily-habit-tracker.git
+
+Navigate to the project directory:
+
+```bash cd Daily-habit-tracker``
+
+## Install dependencies:
+
+npm install
+
+## Start the development server:
+
+```bash 
+
+npm run dev 
+
+## Access the application: Open your browser and navigate to
+
+```bash
+
+http://localhost:3000
+
+## Contributors
+
+###Aditya Nunia
