@@ -23,3 +23,9 @@ Technologies Used:
 2.Database: Dexie Cloud
 
 3.Deployment: Vercel
+
+Getting Started:
+
+To set up the project locally:
+
+1.Clone the repository:
