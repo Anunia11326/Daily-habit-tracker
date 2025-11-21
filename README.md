@@ -30,7 +30,7 @@ To set up the project locally:
 
 1.Clone the repository:
 
-git clone https://github.com/Anunia11326/Daily-habit-tracker.git
+## git clone https://github.com/Anunia11326/Daily-habit-tracker.git
 
 Navigate to the project directory:
 
